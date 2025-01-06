@@ -27,4 +27,4 @@ State Management: Managed using React's useState and useEffect hooks.
 CSS: For styling the application.
 How to Run the Project
 Clone the repository:
-git clone https://github.com/Basic_reactJS
+git clone https://github.com/AmithaGS/Basic_reactJS
